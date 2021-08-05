@@ -1,0 +1,6 @@
+C:\Users\jhayr\source\repos\WordCountingDictionary\WordCountingDictionary\bin\Debug\WordCountingDictionary.exe.config
+C:\Users\jhayr\source\repos\WordCountingDictionary\WordCountingDictionary\bin\Debug\WordCountingDictionary.exe
+C:\Users\jhayr\source\repos\WordCountingDictionary\WordCountingDictionary\bin\Debug\WordCountingDictionary.pdb
+C:\Users\jhayr\source\repos\WordCountingDictionary\WordCountingDictionary\obj\Debug\WordCountingDictionary.csprojAssemblyReference.cache
+C:\Users\jhayr\source\repos\WordCountingDictionary\WordCountingDictionary\obj\Debug\WordCountingDictionary.exe
+C:\Users\jhayr\source\repos\WordCountingDictionary\WordCountingDictionary\obj\Debug\WordCountingDictionary.pdb
